@@ -125,7 +125,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>alibc_link_partner</artifactId>
-      <version>4.1.6</version>
+      <version>4.1.11</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -138,7 +138,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>AlibcTradeCommon</artifactId>
-      <version>4.0.0.0</version>
+      <version>4.0.0.2</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -151,7 +151,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>AlibcTradeBiz</artifactId>
-      <version>4.0.0.0</version>
+      <version>4.0.0.2</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
@@ -164,7 +164,7 @@
     <dependency>
       <groupId>com.alibaba.sdk.android</groupId>
       <artifactId>nb_trade</artifactId>
-      <version>4.0.0.0</version>
+      <version>4.0.0.2</version>
       <type>aar</type>
       <scope>compile</scope>
       <exclusions>
