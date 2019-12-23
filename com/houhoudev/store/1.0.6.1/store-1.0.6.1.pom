@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.houhoudev</groupId>
+      <groupId>Red</groupId>
       <artifactId>common</artifactId>
-      <version>1.0.6</version>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
