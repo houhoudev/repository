@@ -3,7 +3,7 @@
   <groupId>com.houhoudev</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <release>1.0.9</release>
+    <release>1.0.9.1</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -12,7 +12,8 @@
       <version>1.0.6.1</version>
       <version>1.0.6.2</version>
       <version>1.0.9</version>
+      <version>1.0.9.1</version>
     </versions>
-    <lastUpdated>20191230144208</lastUpdated>
+    <lastUpdated>20200102145110</lastUpdated>
   </versioning>
 </metadata>
